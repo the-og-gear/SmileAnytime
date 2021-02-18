@@ -1,0 +1,5 @@
+# Ignore the release directory. I need *somewhere* to build to, don't I?
+release/
+# Also ignore zipfiles and extension packages
+*.zip
+*.xpi
